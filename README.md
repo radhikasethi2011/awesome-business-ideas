@@ -21,4 +21,15 @@ Ideas
 * Live hair tutorials 
 * Gamify your course work, leader board of point with rest of your classmates
 
+---
+
+#### FAQ ####
+
+---
+
+#### Acknowledgements ####
+
+Ideas out here are motivated by Allie K. Miller's video : 
+* [Video Link](https://www.linkedin.com/posts/alliekmiller_entrepreneurship-business-ugcPost-6668187105555951616-LGhO "Video Link")
+
 
