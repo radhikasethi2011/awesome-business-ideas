@@ -7,6 +7,6 @@ Content Cell   | Content Cell
 
 Ideas                
 ---------------------
-Smart Excercise App  |
+Smart Excercise App  
 
 
