@@ -43,6 +43,8 @@ Credit
 
 Built with lots of keyboard smashing love by Meghana Bhange and Radhika Sethi. Find us on Twitter![@meghanabhange](https://twitter.com/meghanabhange "@meghanabhange") [@RadhikaSethi201](https://twitter.com/RadhikaSethi201 "@RadhikaSethi201") 
 
+These ideas have been seen by [![HitCount](http://hits.dwyl.com/radhikasethi2011/awesome-business-ideas.svg)](http://hits.dwyl.com/radhikasethi2011/awesome-business-ideas) recently!
+
 
 License
 --------------------
