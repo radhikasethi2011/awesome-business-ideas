@@ -9,7 +9,7 @@ Content Cell                      | Content Cell
 
 Ideas                
 ---------------------
-Smart Excercise App
-Live hair tutorials 
+1. Smart Excercise App
+2. Live hair tutorials 
 
 
