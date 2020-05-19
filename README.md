@@ -11,6 +11,7 @@ Live Fitness                            | Guiding others to work out
 Gamification                            | Completing courses, assignments
 Audio-reading (audiobooks, podcasts)    | 
 Content Cell                            | Content Cell
+</br>
 
 Ideas                
 ---------------------
