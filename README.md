@@ -40,7 +40,14 @@ Ideas out here are motivated by Allie K. Miller's video :
 ---
 Credit
 ---------------------
+
 Built with lots of keyboard smashing love by Meghana Bhange and Radhika Sethi. Find us on Twitter![@meghanabhange](https://twitter.com/meghanabhange "@meghanabhange") [@RadhikaSethi201](https://twitter.com/RadhikaSethi201 "@RadhikaSethi201") 
+
+---
+License
+--------------------
+
+This repository is licensed under the MIT License. Please see the [LICENSE](https://github.com/radhikasethi2011/awesome-business-ideas/blob/master/LICENSE "LICENSE")  file for more details.
 
 
 
