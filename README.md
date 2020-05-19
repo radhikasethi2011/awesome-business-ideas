@@ -22,8 +22,11 @@ Ideas
 * Gamify your course work, leader board of point with rest of your classmates
 
 ---
-
-#### FAQ ####
+ FAQ 
+ * **Can I use the ideas here for my thesis?** Definitely! Let me know how it goes. 
+ * **How can I add my ideas here?** Create a pull request, and let's get started!
+ * **Hey, I see something wrong here** My bad. Please let me know by raising a [GitHub Issue](https://github.com/radhikasethi2011/awesome-business-ideas/issues "GitHub Issue") 
+ * **Can I share a solution to an Idea here?** Sure! Go ahead :muscle:
 
 ---
 
