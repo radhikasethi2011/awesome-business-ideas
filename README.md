@@ -15,14 +15,14 @@ Content Cell                            | Content Cell
 
 ---
 
-##Ideas##                
+Ideas               
 ---------------------
 * Smart Excercise App
 * Live hair tutorials 
 * Gamify your course work, leader board of point with rest of your classmates
 
 ---
- ##FAQ## 
+ FAQ 
  --------------------
  * **Can I use the ideas here for my thesis?** Definitely! Let me know how it goes. 
  * **How can I add my ideas here?** Create a pull request, and let's get started!
@@ -31,9 +31,16 @@ Content Cell                            | Content Cell
 
 ---
 
-#### Acknowledgements ####
+Acknowledgements
+---------------------
 
 Ideas out here are motivated by Allie K. Miller's video : 
 * [Video Link](https://www.linkedin.com/posts/alliekmiller_entrepreneurship-business-ugcPost-6668187105555951616-LGhO "Video Link")
+
+---
+Credit
+---------------------
+Built with lots of keyboard smashing love by Meghana Bhange and Radhika Sethi. Find us on Twitter![@meghanabhange](https://twitter.com/meghanabhange "@meghanabhange") [@RadhikaSethi201](https://twitter.com/RadhikaSethi201 "@RadhikaSethi201") 
+
 
 
