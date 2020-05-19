@@ -5,6 +5,7 @@ Global Trends                     |  Actions / Verbs
 ----------------------------------| ----------------------------------
 Personal Data                     | Need to Excercise 
 Rise of Live Streaming            | Getting ready in the morning
+Content Cell                      | Content Cell
 
 Ideas                
 ---------------------
