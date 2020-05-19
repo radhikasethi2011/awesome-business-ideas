@@ -5,7 +5,7 @@ Global Trends  |  Actions / Verbs
 Personal Data  | Need to Excercise 
 Content Cell   | Content Cell
 
-Ideas                | 
+Ideas                
 ---------------------
 Smart Excercise App  |
 
