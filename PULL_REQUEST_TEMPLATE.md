@@ -2,7 +2,8 @@
  Idea template should look like: 
  * Global Trend: A global trend currently
  * Action: An action or a verb
- * Idea: An idea that you can generate with these. 
+ * Idea: An idea that you can generate with these.
+ * Any suggestions/ solution to an Idea!
  ---
  #### Please create one PR per idea! ####
   For example, an idea could be : 
