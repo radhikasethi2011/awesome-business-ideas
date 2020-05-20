@@ -1,5 +1,5 @@
  #### Delete everything from this line ####
- #### Please create one PR per idea! ####
+ #### Please create one PR per idea, and make the changes in README.md, not this file! ####
  Idea template should look like: 
  * Global Trend: A global trend currently
  * Action: An action or a verb
