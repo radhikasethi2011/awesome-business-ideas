@@ -1,6 +1,7 @@
  #### Delete everything from this line onwards ####
  #### Please create one PR per idea, and make the changes in README.md, not this file! ####
  #### To add the global trends and action, add it to the table. If on combining them, an idea clicks, add it to the Idea Section of README.md! ####
+ 
  Idea template should look like: 
  * Global Trend: A global trend currently
  * Action: An action or a verb
