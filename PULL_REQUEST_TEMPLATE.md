@@ -1,4 +1,4 @@
- #### Delete everything from this line ####
+ #### Delete everything from this line onwards ####
  #### Please create one PR per idea, and make the changes in README.md, not this file! ####
  Idea template should look like: 
  * Global Trend: A global trend currently
