@@ -1,13 +1,4 @@
- #### Delete everything from this line ####
- #### Please create one PR per idea! ####
- Idea template should look like: 
- * Global Trend: A global trend currently
- * Action: An action or a verb
- * Idea: An idea that you can generate with these.
- * Any suggestions/ solution to an Idea!
- ---
- 
-  #### For example, an idea could be : ####
-  * Global trend: 3D Printing
-  * Action: The need to eat
-  * Idea: Developing 3D printed edible food! 
+ * Global Trend:  Fully Customizable online shopping website.
+ * Action: This is the need for people who don't have default body types to fit into defalut sizes of clothes.
+ * Idea: Create a 3D model of a mannequin which will change its size to the size of the person by entering the size and weight of the person.
+ * If this can be implemented, people can overcome the problem of not having a trial room while shopping online.
