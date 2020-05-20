@@ -33,7 +33,7 @@ Ideas
  FAQ 
  --------------------
  * **Can I use the ideas here for my thesis?** Definitely! Let me know how it goes. 
- * **How can I add my ideas here?** Create a [Pull Request](https://github.com/radhikasethi2011/awesome-business-ideas/blob/master/PULL_REQUEST_TEMPLATE.md "Pull Request"), and let's get started!
+ * **How can I add my ideas here?** Create a [Pull Request]https://github.com/radhikasethi2011/awesome-business-ideas/pulls "Pull Request"), and let's get started!
  * **Hey, I see something wrong here** My bad. Please let me know by raising a [GitHub Issue](https://github.com/radhikasethi2011/awesome-business-ideas/issues "GitHub Issue") 
  * **Can I share a solution to an Idea here?** Sure! Go ahead :muscle:
 
