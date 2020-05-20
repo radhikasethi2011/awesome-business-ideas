@@ -29,6 +29,7 @@ Ideas
 * Smart Excercise App
 * Live hair tutorials 
 * Gamify your course work, leader board of point with rest of your classmates
+* reminder app for video meetings and webinars
 
 ---
  FAQ 
