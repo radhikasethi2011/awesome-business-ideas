@@ -1,6 +1,7 @@
 # awesome-business-ideas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 #### Crowdsourcing the ideas for trends and verbs to create unique business ideas ####
 This is based on a video by [Allie K Miller](https://www.linkedin.com/in/alliekmiller/ "Allie K Miller"). Go to [Acknowledgements](#Acknowledgements).
+</br>
 She recommends a framework, a method to brainstorm ideas. One of the frameworks being - pick one __Global trend__ and one __Action/verb__ and mush them together to form a business idea. 
 For example, __Personal data__ and __Need to Excercise__ can result in an idea: __Smart Excercise App__. 
 
