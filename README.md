@@ -19,6 +19,7 @@ Mindfulness                             | Show casing it to everyone
 Live Fitness                            | Guiding others to work out
 Gamification                            | Completing courses, assignments
 Audio-reading (audiobooks, podcasts)    | 
+virtual trial room for online shopping  | to have trial rooms for online shopping
 Content Cell                            | Content Cell
 
 ---
@@ -28,6 +29,7 @@ Ideas
 * Smart Excercise App
 * Live hair tutorials 
 * Gamify your course work, leader board of point with rest of your classmates
+* reminder app for video meetings and webinars
 
 ---
  FAQ 
