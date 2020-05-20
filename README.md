@@ -3,6 +3,7 @@
 This is based on a video by [Allie K Miller](https://www.linkedin.com/in/alliekmiller/ "Allie K Miller"). Go to [Acknowledgements](#Acknowledgements).
 </br>
 She recommends a framework, a method to brainstorm ideas. One of the frameworks being - pick one __Global trend__ and one __Action/verb__ and mush them together to form a business idea. 
+</br>
 For example, __Personal data__ and __Need to Excercise__ can result in an idea: __Smart Excercise App__. 
 
 Simply replace 'Content Cell' with the trend / verb, and add another 'Content Cell' at the end to keep the table going.
