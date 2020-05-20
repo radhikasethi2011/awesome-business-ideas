@@ -6,8 +6,9 @@ She recommends a framework, a method to brainstorm ideas. One of the frameworks 
 </br>
 For example, __Personal data__ and __Need to Excercise__ can result in an idea: __Smart Excercise App__. 
 
-Simply replace 'Content Cell' with the trend / verb, and add another 'Content Cell' at the end to keep the table going.
----
+#### Simply replace 'Content Cell' with the trend / verb, and add another 'Content Cell' at the end to keep the table going. ####
+ ---
+
 
 Global Trends                           |  Actions / Verbs
 --------------------------------------- | ---------------------------------------
