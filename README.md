@@ -20,6 +20,7 @@ Live Fitness                            | Guiding others to work out
 Gamification                            | Completing courses, assignments
 Audio-reading (audiobooks, podcasts)    | 
 virtual trial room for online shopping  | the need to shop
+Artificial Intelligence                 | Making notes on paper
 Content Cell                            | Content Cell
 
 ---
@@ -31,7 +32,7 @@ Ideas
 * Gamify your course work, leader board of point with rest of your classmates
 * reminder app for video meetings and webinars
 * create an AR app, where you can try on the clothes
-
+* Leverage AI to make notes in-air (Movement Tracking + Letter recognition + save to a text file)
 ---
  FAQ 
  --------------------
