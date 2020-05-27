@@ -21,6 +21,7 @@ Gamification                            | Completing courses, assignments
 Audio-reading (audiobooks, podcasts)    | 
 virtual trial room for online shopping  | the need to shop
 Artificial Intelligence                 | Making notes on paper
+Video Gaming                            | Studying
 Content Cell                            | Content Cell
 
 ---
@@ -33,6 +34,7 @@ Ideas
 * reminder app for video meetings and webinars
 * create an AR app, where you can try on the clothes
 * Leverage AI to make notes in-air (Movement Tracking + Letter recognition + save to a text file)
+* Making the use of Augmented Reality to make studying more interactive, like Avalon Meta
 ---
  FAQ 
  --------------------
