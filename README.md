@@ -10,19 +10,19 @@ For example, __Personal data__ and __Need to Excercise__ can result in an idea: 
  ---
 
 
-Global Trends                           |  Actions / Verbs
---------------------------------------- | ---------------------------------------
-Personal Data                           | Need to Excercise 
-Rise of Live Streaming                  | Getting ready in the morning
-No code system                          | Constant information consumption
-Mindfulness                             | Show casing it to everyone
-Live Fitness                            | Guiding others to work out
-Gamification                            | Completing courses, assignments
-Audio-reading (audiobooks, podcasts)    | 
-virtual trial room for online shopping  | the need to shop
-Artificial Intelligence                 | Making notes on paper
-Video Gaming                            | Studying
-Content Cell                            | Content Cell
+| Global Trends 	| Ref 	| Actions / Verbs 	| Ref 	|
+|:--------------------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|----------------------------------	|-----	|
+| Personal Data 	|  	| Need to Excercise 	|  	|
+| Rise of Live Streaming 	|  	| Getting ready in the morning 	|  	|
+| No code system 	|  	| Constant information consumption 	|  	|
+| Mindfulness 	| The Wall Street Journal reports<br>that more than 2,000 new meditation <br>apps launched between 2015 and 2018 [ref](https://www.wsj.com/articles/headspace-vs-calm-the-meditation-battle-thats-anything-but-zen-11544889606) 	| Show casing it to everyone 	|  	|
+| Live Fitness 	|  	| Guiding others to work out 	|  	|
+| Gamification 	|  	| Completing courses, assignments 	|  	|
+| Audio-reading (audiobooks, podcasts) 	|  	|  	|  	|
+| virtual trial room for online shopping 	|  	| the need to shop 	|  	|
+| Artificial Intelligence 	|  	| Making notes on paper 	|  	|
+| Video Gaming 	|  	| Studying 	|  	|
+| Content Cell 	|  	| Content Cell 	|  	|
 
 ---
 
