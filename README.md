@@ -22,6 +22,7 @@ For example, __Personal data__ and __Need to Excercise__ can result in an idea: 
 | virtual trial room for online shopping 	|  	| the need to shop 	|  	|
 | Artificial Intelligence 	|  	| Making notes on paper 	|  	|
 | Video Gaming 	|  	| Studying 	|  	|
+| Ordering items |  | Taking out the trash |  | 
 | Content Cell 	|  	| Content Cell 	|  	|
 
 ---
@@ -35,6 +36,7 @@ Ideas
 * create an AR app, where you can try on the clothes
 * Leverage AI to make notes in-air (Movement Tracking + Letter recognition + save to a text file)
 * Making the use of Augmented Reality to make studying more interactive, like Avalon Meta
+* Identifying illegal dumpsites, identify what product should go to which recycling bin
 ---
  FAQ 
  --------------------
