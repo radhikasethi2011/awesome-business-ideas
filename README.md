@@ -22,7 +22,7 @@ For example, __Personal data__ and __Need to Excercise__ can result in an idea: 
 | virtual trial room for online shopping 	|  	| the need to shop 	|  	|
 | Artificial Intelligence 	|  	| Making notes on paper 	|  	|
 | Video Gaming 	|  	| Studying 	|  	|
-| Ordering items |  | Taking out the trash |  |
+| Ordering items | People place orders online for</br> non-essential items; staff</br> crunch is causing a delay in deliveries. [ref](https://timesofindia.indiatimes.com/india/lockdown-3-0-people-place-orders-online-for-non-essential-items-staff-crunch-may-delay-deliveries/articleshow/75541154.cms/ "ref") | Taking out the trash |  |
 | Local shopping |  | Walking to the stores |  |  
 | Content Cell 	|  	| Content Cell 	|  	|
 
