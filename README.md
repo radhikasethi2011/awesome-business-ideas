@@ -10,7 +10,7 @@ For example, __Personal data__ and __Need to Excercise__ can result in an idea: 
  ---
 
 
-| Global Trends 	| Ref 	| Actions / Verbs 	| Ref 	|
+| Global Trends 	| Referance 	| Actions / Verbs 	| Ref 	|
 |:--------------------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|----------------------------------	|-----	|
 | Personal Data 	|  	| Need to Excercise 	|  	|
 | Rise of Live Streaming 	|  	| Getting ready in the morning 	|  	|
