@@ -16,7 +16,7 @@ For example, __Personal data__ and __Need to Excercise__ can result in an idea: 
 | Rise of Live Streaming 	|  	| Getting ready in the morning 	|  	|
 | No code system 	|Before no-code development <br>platforms, GE was using a<br> manual, multiple-step proposal<br> generation process for internal<br> work. It was time costing. With<br> no-code development tools, they<br> were able to create a simplified<br> web app that automated proposal generation. [ref](https://kissflow.com/rad/no-code/no-code-overview/#:~:text=A%20no%2Dcode%20platform%20is,coding%20knowledge%20to%20create%20apps.)   	| Constant information consumption 	|  	|
 | Mindfulness 	| The Wall Street Journal reports<br>that more than 2,000 new meditation <br>apps launched between 2015 and 2018 [ref](https://www.wsj.com/articles/headspace-vs-calm-the-meditation-battle-thats-anything-but-zen-11544889606) 	| Show casing it to everyone 	|  	|
-| Live Fitness 	|  	| Guiding others to work out 	|  	|
+| Live Fitness 	| Physical fitness is not just crucial </br>for a healthy body but imperative</br> for a healthy mind and emotional wellbeing.</br> Even though laziness seems the</br> new normal amidst others ‘newness’ that</br> staying at home has brought,</br> there’s no substitute to self-care. [ref](https://www.hindustantimes.com/more-lifestyle/quarantine-workout-lockdown-exercises-to-keep-you-fit-focused-and-sane/story-oHykB6bSsWiDf0jOhoRsdI.html/ "ref") 	| Guiding others to work out 	|  	|
 | Gamification 	|  	| Completing courses, assignments 	|  	|
 | Audio-reading (audiobooks, podcasts) 	|  	|  	|  	|
 | virtual trial room for online shopping 	|  	| the need to shop 	|  	|
