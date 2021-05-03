@@ -1,4 +1,4 @@
-# awesome-business-ideas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-business-ideas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fradhikasethi2011%2Fawesome-business-ideas&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 #### Crowdsourcing the ideas for trends and verbs to create unique business ideas ####
 This is based on a video by [Allie K Miller](https://www.linkedin.com/in/alliekmiller/ "Allie K Miller"). Go to [Acknowledgements](#Acknowledgements).
 </br>
