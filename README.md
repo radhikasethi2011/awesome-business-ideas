@@ -28,6 +28,7 @@ __Check out the README of the [ref branch](https://github.com/radhikasethi2011/a
 | Ordering items | People place orders online for</br> non-essential items; staff</br> crunch is causing a delay in deliveries. [ref](https://timesofindia.indiatimes.com/india/lockdown-3-0-people-place-orders-online-for-non-essential-items-staff-crunch-may-delay-deliveries/articleshow/75541154.cms/ "ref") | Taking out the trash |  |
 | Local shopping |  | Walking to the stores |  |  
 | Machine Learning |   | Brewing Coffee |  |
+| Machine Learning |  | Breathing clean air |  | 
 | Content Cell 	|  	| Content Cell 	|  	|
 
 ---
@@ -44,6 +45,7 @@ Ideas
 * Identifying illegal dumpsites, identify what product should go to which recycling bin
 * delivery drones!!!
 * Optimising coffee brewing method by optimising water-grind ratio with the time. Bayesian model?
+* Sort of a wearable that detects the cleanliness of the air around you - notifies you of the chemicals/molecules/how harmful it is 
 ---
  FAQ 
  --------------------
